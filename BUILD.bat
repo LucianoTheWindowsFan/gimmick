@@ -1,0 +1,1 @@
+asm6 GIMMICK-JPN.asm
